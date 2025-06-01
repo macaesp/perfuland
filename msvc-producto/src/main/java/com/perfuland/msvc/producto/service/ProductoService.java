@@ -1,6 +1,6 @@
 package com.perfuland.msvc.producto.service;
 
-import com.perfuland.msvc.producto.model.entities.Producto;
+import com.perfuland.msvc.producto.model.Producto;
 
 import java.util.List;
 
