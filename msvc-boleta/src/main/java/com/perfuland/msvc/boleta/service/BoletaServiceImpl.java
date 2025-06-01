@@ -5,6 +5,7 @@ import com.perfuland.msvc.boleta.model.Boleta;
 import com.perfuland.msvc.boleta.repository.BoletaRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 
+
 import java.util.List;
 
 public class BoletaServiceImpl {
@@ -12,7 +13,7 @@ public class BoletaServiceImpl {
     private BoletaRepository boletaRepository;
 
     @Override
-    public List<Boleta> findAll (){
+    public List<Boleta> findAll () {
         return this.boletaRepository.findAll();
     }
 
