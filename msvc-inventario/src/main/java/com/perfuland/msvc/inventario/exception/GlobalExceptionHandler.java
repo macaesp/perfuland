@@ -1,7 +1,7 @@
 package com.perfuland.msvc.inventario.exception;
 
 
-import com.perfulandia.msvc.inventario.dtos.ErrorDTO;
+import com.perfuland.msvc.inventario.dtos.ErrorDTO;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.validation.FieldError;
