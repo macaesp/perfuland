@@ -1,6 +1,6 @@
 package com.perfuland.msvc.inventario.repository;
 
-import com.perfuland.msvc.inventario.model.entities.Inventario;
+import com.perfuland.msvc.inventario.model.Inventario;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 
