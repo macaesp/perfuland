@@ -2,7 +2,7 @@ package com.perfuland.msvc.producto.exceptions;
 
 
 
-import com.perfulandia.msvc.producto.dtos.ErrorDTO;
+import com.perfuland.msvc.producto.dtos.ErrorDTO;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.validation.FieldError;

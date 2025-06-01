@@ -1,6 +1,6 @@
 package com.perfuland.msvc.producto.controller;
 
-import com.perfuland.msvc.producto.model.entities.Producto;
+import com.perfuland.msvc.producto.model.Producto;
 import com.perfuland.msvc.producto.service.ProductoService;
 import jakarta.validation.Valid;
 import org.springframework.beans.factory.annotation.Autowired;
