@@ -1,6 +1,6 @@
 package com.perfuland.msvc.producto.repository;
 
-import com.perfuland.msvc.producto.model.entities.Producto;
+import com.perfuland.msvc.producto.model.Producto;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 
