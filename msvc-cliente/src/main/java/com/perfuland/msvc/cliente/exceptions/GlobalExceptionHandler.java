@@ -1,6 +1,6 @@
-package com.perfuland.msvc.carrocompras.exceptions;
+package com.perfuland.msvc.cliente.exceptions;
 
-import com.perfuland.msvc.carrocompras.dtos.ErrorDTO;
+import com.perfuland.msvc.cliente.dtos.ErrorDTO;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.validation.FieldError;

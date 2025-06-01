@@ -1,5 +1,6 @@
 package com.perfuland.msvc.boleta.service;
 
+import com.perfuland.msvc.boleta.exceptions.BoletaException;
 import com.perfuland.msvc.boleta.model.Boleta;
 import com.perfuland.msvc.boleta.repository.BoletaRepository;
 import org.springframework.beans.factory.annotation.Autowired;

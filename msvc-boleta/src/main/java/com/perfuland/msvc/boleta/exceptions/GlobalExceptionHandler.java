@@ -1,7 +1,7 @@
 package com.perfuland.msvc.boleta.exceptions;
 
 
-import com.perfulandia.msvc.boleta.dtos.ErrorDTO;
+import com.perfuland.msvc.boleta.dtos.ErrorDTO;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.validation.FieldError;

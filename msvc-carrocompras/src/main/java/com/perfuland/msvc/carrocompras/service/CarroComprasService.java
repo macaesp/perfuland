@@ -1,6 +1,6 @@
 package com.perfuland.msvc.carrocompras.service;
 
-import com.perfulandia.msvc.carrocompras.model.entities.CarroCompras;
+import com.perfuland.msvc.carrocompras.model.CarroCompras;
 
 import java.util.List;
 
