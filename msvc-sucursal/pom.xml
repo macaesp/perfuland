@@ -10,7 +10,7 @@
 	<groupId>com.perfuland.msvc.sucursal</groupId>
 	<artifactId>msvc-sucursal</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>msvc-sucursal</name>
+	<name> msvc-sucursal </name>
 	<description>Demo project for Spring Boot</description>
 	<url/>
 	<licenses>
