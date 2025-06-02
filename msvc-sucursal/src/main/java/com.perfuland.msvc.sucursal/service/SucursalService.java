@@ -1,6 +1,6 @@
-package com.perulandia.msvc.sucursal.service;
+package com.perfuland.msvc.sucursal.service;
 
-import com.perulandia.msvc.sucursal.model.entities.Sucursal;
+import com.perfuland.msvc.sucursal.model.entities.Sucursal;
 import java.util.List;
 
 public interface SucursalService {

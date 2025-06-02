@@ -1,7 +1,7 @@
 package com.perulandia.msvc.sucursal.controller;
 
-import com.perulandia.msvc.sucursal.model.entities.Sucursal;
-import com.perulandia.msvc.sucursal.service.SucursalService;
+import com.perfuland.msvc.sucursal.model.entities.Sucursal;
+import com.perfuland.msvc.sucursal.service.SucursalService;
 import jakarta.validation.Valid;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;

@@ -1,7 +1,7 @@
-package com.perulandia.msvc.sucursal.exception;
+package com.perfuland.msvc.sucursal.exception;
 
 
-import com.perulandia.msvc.sucursal.dtos.ErrorDTO;
+import com.perfuland.msvc.sucursal.dtos.ErrorDTO;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.validation.FieldError;

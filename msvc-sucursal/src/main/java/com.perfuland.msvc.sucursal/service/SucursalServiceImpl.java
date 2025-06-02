@@ -1,10 +1,8 @@
-package com.perulandia.msvc.sucursal.service;
+package com.perfuland.msvc.sucursal.service;
 
-import com.perulandia.msvc.sucursal.clients.InventarioClientRest;
-import com.perulandia.msvc.sucursal.exception.SucursalException;
-import com.perulandia.msvc.sucursal.model.Inventario;
-import com.perulandia.msvc.sucursal.model.entities.Sucursal;
-import com.perulandia.msvc.sucursal.repository.SucursalRepository;
+import com.perfuland.msvc.sucursal.exception.SucursalException;
+import com.perfuland.msvc.sucursal.model.Sucursal;
+import com.perfuland.msvc.sucursal.repository.SucursalRepository;
 import feign.FeignException;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;

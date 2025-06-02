@@ -1,4 +1,4 @@
-package com.perulandia.msvc.sucursal.dtos;
+package com.perfuland.msvc.sucursal.dtos;
 
 import lombok.Getter;
 import lombok.Setter;

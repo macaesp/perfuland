@@ -1,6 +1,6 @@
-package com.perulandia.msvc.sucursal.repository;
+package com.perfuland.msvc.sucursal.repository;
 
-import com.perulandia.msvc.sucursal.model.entities.Sucursal;
+import com.perfuland.msvc.sucursal.model.entities.Sucursal;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 
